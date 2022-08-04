@@ -37,6 +37,9 @@
     <None Include="README.md" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="images\sperm_whales.jpg" />
+    <Content Include="moby_dick.html" />
+    <Content Include="images\moby_dick.png" />
     <Content Include="tags.html" />
     <Content Include="images\kitten.jpg" />
     <Content Include="images\small_twitter_logo.png" />
