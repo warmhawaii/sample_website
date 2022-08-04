@@ -37,6 +37,8 @@
     <None Include="README.md" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="images\kitten.jpg" />
+    <Content Include="images\small_twitter_logo.png" />
     <Content Include="index.html" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
