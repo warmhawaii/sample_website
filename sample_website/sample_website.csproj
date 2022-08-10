@@ -38,6 +38,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="images\sperm_whales.jpg" />
+    <Content Include="css\main.css" />
     <Content Include="moby_dick.html" />
     <Content Include="images\moby_dick.png" />
     <Content Include="tags.html" />
